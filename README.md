@@ -9,7 +9,7 @@ Essa é uma mini aplicação com o objetivo de fazer consultas a [SuperHero API]
 ## ⚡ Tópico Importante ⚡
 Foi necessário a utilização do [cors bridged](https://cors.bridged.cc/) para os requests na API porque, após qualquer request, a API retornava um erro de CORS. Pesquisei bastante sobre, até que cheguei nessa solução.
 
-- Você consegue visualzar no arquivo apiSuperHero (src / services / apiSuperHero.js).
+- Você consegue visualzar no arquivo api (src / services / api.js).
 
 ## 💻 Linguagem, Tecnologias e Bibliotecas 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -34,7 +34,7 @@ $ npm install
 ## Como Rodar o Projeto
 ```bash
 # 1. Entre na pasta
-$ cd superheroeo-challenge
+$ cd superhero-challenge
 
 # 2. Rode localmente
 # Para yarn:
